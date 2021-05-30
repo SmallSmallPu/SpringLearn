@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/001-springboot-first" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/002-springboot-springmvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/002-springboot-springmvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/003-springboot-context-path" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/004-springboot-properties-yml-yaml" charset="UTF-8" />
+  </component>
+</project>
