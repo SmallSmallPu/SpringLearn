@@ -6,7 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/002-springboot-springmvc/002-springboot-springmvc.iml" filepath="$PROJECT_DIR$/002-springboot-springmvc/002-springboot-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/003-springboot-context-path/003-springboot-context-path.iml" filepath="$PROJECT_DIR$/003-springboot-context-path/003-springboot-context-path.iml" />
       <module fileurl="file://$PROJECT_DIR$/004-springboot-properties-yml-yaml/004-springboot-properties-yml-yaml.iml" filepath="$PROJECT_DIR$/004-springboot-properties-yml-yaml/004-springboot-properties-yml-yaml.iml" />
-      <module fileurl="file://$PROJECT_DIR$/004-springboot-properties-yml-yaml/005-springboot-multi-environment-properties.iml" filepath="$PROJECT_DIR$/004-springboot-properties-yml-yaml/005-springboot-multi-environment-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006-springboot-mulit-environment-yml/006-springboot-mulit-environment-yml.iml" filepath="$PROJECT_DIR$/006-springboot-mulit-environment-yml/006-springboot-mulit-environment-yml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007-springboot-custom-configuration/007-springboot-custom-configuration.iml" filepath="$PROJECT_DIR$/007-springboot-custom-configuration/007-springboot-custom-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/008-springboot-custom-configuration-2/008-springboot-custom-configuration-2.iml" filepath="$PROJECT_DIR$/008-springboot-custom-configuration-2/008-springboot-custom-configuration-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009-springboot-jsp/009-springboot-jsp.iml" filepath="$PROJECT_DIR$/009-springboot-jsp/009-springboot-jsp.iml" />
     </modules>
   </component>
 </project>

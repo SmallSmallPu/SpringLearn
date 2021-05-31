@@ -1,0 +1,4 @@
+#在主配置文件中设置想要生效的配置文件
+spring:
+  profiles:
+    active: product

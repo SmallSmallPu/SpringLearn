@@ -10,7 +10,10 @@
         <module name="002-springboot-springmvc" />
         <module name="003-springboot-context-path" />
         <module name="004-springboot-properties-yml-yaml" />
-        <module name="005-springboot-multi-environment-properties" />
+        <module name="006-springboot-mulit-environment-yml" />
+        <module name="007-springboot-custom-configuration" />
+        <module name="008-springboot-custom-configuration-2" />
+        <module name="009-springboot-jsp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +22,12 @@
       <module name="003-springboot-context-path" target="1.8" />
       <module name="004-springboot-properties-yml-yaml" target="1.8" />
       <module name="005-springboot-multi-environment-properties" target="1.8" />
+      <module name="006-springboot-mulit-environment-yml" target="1.8" />
+      <module name="006-springboot-mulit-environment-yml (1)" target="1.8" />
+      <module name="006-springboot-mulit-environment-yml (2)" target="1.7" />
+      <module name="007-springboot-custom-configuration" target="1.8" />
+      <module name="008-springboot-custom-configuration-2" target="1.8" />
+      <module name="009-springboot-jsp" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
