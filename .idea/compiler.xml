@@ -14,6 +14,8 @@
         <module name="007-springboot-custom-configuration" />
         <module name="008-springboot-custom-configuration-2" />
         <module name="009-springboot-jsp" />
+        <module name="012-springboot-mybatis" />
+        <module name="014-springboot-mybatis-3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +30,10 @@
       <module name="007-springboot-custom-configuration" target="1.8" />
       <module name="008-springboot-custom-configuration-2" target="1.8" />
       <module name="009-springboot-jsp" target="1.8" />
+      <module name="010-springboot-myselfspringboot" target="1.8" />
+      <module name="012-springboot-mybatis" target="1.8" />
+      <module name="014-springboot-mybatis-3" target="1.8" />
+      <module name="_010springbootmyself" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -37,6 +43,7 @@
       <module name="003-springboot-context-path" options="-parameters" />
       <module name="004-springboot-properties-yml-yaml" options="-parameters" />
       <module name="005-springboot-multi-environment-properties" options="-parameters" />
+      <module name="010-springboot-myselfspringboot" options="-parameters" />
     </option>
   </component>
 </project>

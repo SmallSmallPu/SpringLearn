@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/007-springboot-custom-configuration/pom.xml" />
         <option value="$PROJECT_DIR$/008-springboot-custom-configuration-2/pom.xml" />
         <option value="$PROJECT_DIR$/009-springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/012-springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/014-springboot-mybatis-3/pom.xml" />
       </list>
     </option>
   </component>
@@ -27,7 +29,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
