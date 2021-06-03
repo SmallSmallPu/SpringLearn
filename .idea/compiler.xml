@@ -16,6 +16,8 @@
         <module name="009-springboot-jsp" />
         <module name="012-springboot-mybatis" />
         <module name="014-springboot-mybatis-3" />
+        <module name="015-springboot-mybatis-4" />
+        <module name="016-springboot-transacation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,6 +35,8 @@
       <module name="010-springboot-myselfspringboot" target="1.8" />
       <module name="012-springboot-mybatis" target="1.8" />
       <module name="014-springboot-mybatis-3" target="1.8" />
+      <module name="015-springboot-mybatis-4" target="1.8" />
+      <module name="016-springboot-transacation" target="1.8" />
       <module name="_010springbootmyself" target="1.5" />
     </bytecodeTargetLevel>
   </component>

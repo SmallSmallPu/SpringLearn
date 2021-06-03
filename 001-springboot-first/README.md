@@ -11,6 +11,17 @@
         a、添加mybatis依赖，Mysql驱动,mybatis-generator依赖以及插件
         b、使用Mybatis提供的逆向工程生产实体bean,映射文件、DAO接口
         c、在maven控制台中找到mybatis-generator插件，双击执行
+#####012_015、Springboot集成Mybatis框架，最主要的两个注解，@Mapper以及@MapperScan，最常用的是015框架
+        a、关于Mapper映射文件存放的位置的写法有以下两种。
+            1、将Mapper接口以及Mapper映射文件放到src/main/java同一目录下，
+               还需要在pom文件中手动指定资源文件夹路径resources
+            2、将Mapper接口和Mapper映射文件分开存放
+                Mapper接口放在src/main/java下
+                Mapper映射文件放在resoures/mapper目录下
+                在application核心配置文件中指定mapper映射文件存放到位置
+#####016、springboot项目下使用事务
+        事务是一个完整的功能，也叫做是一个完整的业务
+        事务只跟什么SQL语句有关系？事务只跟DML语句有关系：增删改
 
 
 # 延伸阅读

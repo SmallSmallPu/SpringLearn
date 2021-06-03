@@ -1,9 +1,7 @@
 package com.zhengpu.mapper;
 
 import com.zhengpu.model.Student;
-import org.apache.ibatis.annotations.Mapper;
 
-//@Mapper//扫描DAO接口到spring容器
 public interface StudentMapper {
     int deleteByPrimaryKey(Integer id);
 
