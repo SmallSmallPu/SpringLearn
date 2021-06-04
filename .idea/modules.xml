@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/014-springboot-mybatis-3/014-springboot-mybatis-3.iml" filepath="$PROJECT_DIR$/014-springboot-mybatis-3/014-springboot-mybatis-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/015-springboot-mybatis-4/015-springboot-mybatis-4.iml" filepath="$PROJECT_DIR$/015-springboot-mybatis-4/015-springboot-mybatis-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/016-springboot-transacation/016-springboot-transacation.iml" filepath="$PROJECT_DIR$/016-springboot-transacation/016-springboot-transacation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017-springboot-springmvc/017-springboot-springmvc.iml" filepath="$PROJECT_DIR$/017-springboot-springmvc/017-springboot-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/018-springboot-redis/018-springboot-redis.iml" filepath="$PROJECT_DIR$/018-springboot-redis/018-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/019-springboot-restful/019-springboot-restful.iml" filepath="$PROJECT_DIR$/019-springboot-restful/019-springboot-restful.iml" />
     </modules>
   </component>
 </project>

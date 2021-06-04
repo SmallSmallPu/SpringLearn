@@ -22,6 +22,11 @@
 #####016、springboot项目下使用事务
         事务是一个完整的功能，也叫做是一个完整的业务
         事务只跟什么SQL语句有关系？事务只跟DML语句有关系：增删改
+#####017、springMVC中的常用注解
+#####018、springboot中使用RESTful风格
+#####019、springboot集成redis
+        a、添加操作redis数据类型的依赖
+        b、在springboot核心配置文件中添加Redis的配置
 
 
 # 延伸阅读

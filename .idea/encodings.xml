@@ -13,5 +13,8 @@
     <file url="file://$PROJECT_DIR$/014-springboot-mybatis-3" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/015-springboot-mybatis-4" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/016-springboot-transacation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/017-springboot-springmvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/018-springboot-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/019-springboot-restful" charset="UTF-8" />
   </component>
 </project>
